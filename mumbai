@@ -1,2 +1,2 @@
-int i =0;
-i+=count;system.out.pritln(i);
+import java.util.*;
+public class main
