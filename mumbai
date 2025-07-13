@@ -1,4 +1,2 @@
-string s = "I am sorry koustabh"
-string word = s.split();
-for(int i=word.length; i>0; i--)
-string new = word.substring().trim();
+int i =0;
+i+=count;system.out.pritln(i);
