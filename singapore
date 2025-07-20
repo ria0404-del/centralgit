@@ -1,0 +1,2 @@
+String word = str.split();
+for(int i=word.length(); i>=0; i--){
